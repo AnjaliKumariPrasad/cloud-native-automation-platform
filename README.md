@@ -1,4 +1,4 @@
-````
+
 # 🚀 Cloud-Native Automation Platform
 
 ## 📌 About The Project
@@ -43,7 +43,7 @@ Kubernetes Deployment
 Prometheus
    ↓
 Grafana
-````
+
 
 If the Quality Gate fails, the pipeline stops. If successful, the application continues to the deployment stage.
 
