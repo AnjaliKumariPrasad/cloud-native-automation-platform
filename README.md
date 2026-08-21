@@ -1,4 +1,4 @@
-````md
+````
 # 🚀 Cloud-Native Automation Platform
 
 ## 📌 About The Project
@@ -159,7 +159,7 @@ Grafana
 
 ## Jenkins Pipeline
 
-![Jenkins Pipeline](screenshots/jenkins-bashboard.png)
+![Jenkins Pipeline](screenshots/jenkins-dashboard.png)
 
 ## SonarQube Analysis
 
