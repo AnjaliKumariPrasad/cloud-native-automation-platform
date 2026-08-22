@@ -1,5 +1,5 @@
 
-# 🚀 Cloud-Native Automation Platform
+# 🚀 Cloud-Native CI/CD Automation Platform
 
 ## 📌 About The Project
 
